@@ -6,7 +6,7 @@ This repo is for the EMNLP 2024 paper: [How do Large Language Models Learn In-Co
 
 This work explores the mechanism of in-context learning.
 
-This work uses the findings and insights in [this repo](https://github.com/zepingyu0512/neuron-attribution/tree/main) in [this EMNLP 2024 paper](https://arxiv.org/pdf/2312.12141)
+This work uses the findings and insights in [this repo](https://github.com/zepingyu0512/neuron-attribution/tree/main) in [this EMNLP 2024 paper](https://zepingyu0512.github.io/neuron-attribution.github.io/)
 
 ## running code
 
