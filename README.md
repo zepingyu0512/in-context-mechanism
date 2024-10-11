@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo is for the EMNLP 2024 paper: [How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://arxiv.org/pdf/2402.02872)
+This repo is for the EMNLP 2024 paper: [How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning](https://zepingyu0512.github.io/in-context-mechanism.github.io/)
 
 This work explores the mechanism of in-context learning.
 
