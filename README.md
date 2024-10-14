@@ -14,9 +14,7 @@ First, please use modeling_llama.py to replace the original file in the transfor
 
 Then, run the code in Llama_view_incontext.ipynb using jupyter notebook. This introduces how to analyze one in-context learning sentence.
 
-transformers version: 4.37.1
-
-torch version: 2.1.2+cu121
+environment versions: please see environment.yml
 
 ## cite us: 
 
