@@ -10,11 +10,11 @@ This work uses the findings and insights in [this repo](https://github.com/zepin
 
 ## running code
 
+Environment versions: please see **environment.yml**
+
 First, please use modeling_llama.py to replace the original file in the transformers path, which is usually in anaconda3/envs/YOUR_ENV_NAME/lib/python3.8/site-packages/transformers/models/llama. This modified file is useful for extracting the internal vectors during inference time. **Please remember to save the original file.** 
 
 Then, run the code in Llama_view_incontext.ipynb using jupyter notebook. This introduces how to analyze one in-context learning sentence.
-
-environment versions: please see environment.yml
 
 ## cite us: 
 
